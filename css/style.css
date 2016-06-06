@@ -1,0 +1,138 @@
+/* Remove padding and margin */ 
+*  
+    { 
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.clear{clear:both;} 
+.right{float: right;} 
+.left{float: left;}
+
+body{ font-family:verdana, arial, sans-serif; background: url(../images/Chalkboard.jpg) repeat; color: #000000; text-align:center; } 
+
+#wrapper{width:100%; text-align:left; margin-left:auto; margin-right:auto;color: #ffffff;}
+/*
+@font-face {
+    font-family:topheader;
+    src: url(fonts/rockfont.eot); 
+}
+*/
+@font-face {
+    font-family:topheader;
+    src: url(../fonts/ThirstyRoughBoldThree.otf); 
+}
+@font-face {
+    font-family:special;
+    src: url(../fonts/Fontfabric-IntroRustGBase.otf); 
+}
+@font-face {
+    font-family:display;
+    src: url(../fonts/Fontfabric-IntroRustBase.otf); 
+}
+@font-face {
+    font-family:chalkdust;
+    src: url(../fonts/ChalkDust.ttf); 
+}
+
+h2.members_div{
+    font-family: topheader;
+    font-size: 70px;
+    text-align: center;
+    font-weight:500;
+    padding: 100px 0 0 0;
+}
+
+h2.list_div{
+    font-family: topheader;
+    font-size: 50px;
+    text-align: center;
+    font-weight:500;
+    padding: 50px 0 0 0;
+	cursor:pointer;
+}
+
+div.title_div{
+    font-family: special;
+    font-size: 130px;
+    text-align: center;
+    font-weight:500;
+    line-height: 75px;
+}
+
+div.display_box{
+	margin: 100px 0 0 0;
+}
+div.display_box1{
+    font-family: display;
+    font-size: 75px;
+    text-align: center;
+    font-weight:500;
+    line-height: 75px;
+	width:55%;
+}
+div.display_box2{
+    height:200px;
+    border-right: 2px solid #ffffff;
+	width:1%
+}
+div.display_box3{
+    font-family: display;
+    font-size: 50px;
+    text-align: center;
+    font-weight:500;
+    line-height: 75px;
+	width:40%;
+}
+
+.member_text{font-size:40px;}
+.member_price{font-family:special}
+
+h2.header_div{
+    font-family: topheader;
+    font-size: 80px;
+    text-align: center;
+    font-weight:500;
+    padding: 70px 0 0 0;
+}
+
+span.title_div{
+    font-family: special;
+    font-size: 80px;
+    text-align: center;
+    font-weight:500;
+    line-height: 75px;
+	clear:both;	
+}
+
+div.menu_box{
+	margin: 35px 50px 0 200px;
+}
+
+.menu_box_line{
+	border-bottom:2px solid #FFF;
+	padding:5px 0 0 0;
+	width:90%;	
+}
+.menu_box_item{
+    font-family: display;
+    font-size: 30px;
+    text-align: left;
+    font-weight:500;
+    line-height: 40px;
+	padding:0 0 0 10px;
+	width:50%;
+}
+
+.menu_box_price{
+    font-family:chalkdust;
+    font-size: 25px;
+    text-align: left;
+    font-weight:normal;
+	width:20%;
+}
+
+.menu_box_space{
+	width:2%;
+}

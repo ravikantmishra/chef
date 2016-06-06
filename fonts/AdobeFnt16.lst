@@ -1,0 +1,121 @@
+%!Adobe-FontList 1.16
+%Locale:0xc09
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chalkduster
+FamilyName:Chalkduster
+StyleName:Regular
+FullName:Chalkduster
+MenuName:Chalkduster
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jciccone\Desktop\Food Court Menu items - Digital\CCC FCMenu - DailySpecial Folder (2)\Document fonts\Chalkduster.ttf
+DataFormat:sfntData
+FileLength:483652
+FileModTime:1403944266
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Chalkduster
+NameArray:0,Mac,4,Chalkduster
+NameArray:0,Win,1,Chalkduster
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IntroRust-Base
+FamilyName:Intro Rust
+StyleName:Base
+FullName:Intro Rust Base
+MenuName:Intro Rust Base
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jciccone\Desktop\Food Court Menu items - Digital\CCC FCMenu - DailySpecial Folder (2)\Document fonts\Fontfabric - Intro Rust Base.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:73768
+FileModTime:1436896518
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Intro Rust Base
+NameArray:0,Win,1,Intro Rust Base
+NameArray:0,Win,16,Intro Rust
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:IntroRustG-Base
+FamilyName:Intro Rust G
+StyleName:Base
+FullName:Intro Rust G Base
+MenuName:Intro Rust G Base
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jciccone\Desktop\Food Court Menu items - Digital\CCC FCMenu - DailySpecial Folder (2)\Document fonts\Fontfabric - Intro Rust G Base.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:541220
+FileModTime:1436896518
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Intro Rust G Base
+NameArray:0,Win,1,Intro Rust G Base
+NameArray:0,Win,16,Intro Rust G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jciccone\Desktop\Food Court Menu items - Digital\CCC FCMenu - DailySpecial Folder (2)\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1412237626
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ThirstyRoughBolThr
+FamilyName:Thirsty Rough
+StyleName:Bold Three
+FullName:Thirsty Rough Bol Thr
+MenuName:Thirsty Rough Reg Thr
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\jciccone\Desktop\Food Court Menu items - Digital\CCC FCMenu - DailySpecial Folder (2)\Document fonts\ThirstyRoughBoldThree.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:726604
+FileModTime:1370952544
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Thirsty Rough Bol Thr
+NameArray:0,Win,1,Thirsty Rough Reg Thr
+NameArray:0,Win,16,Thirsty Rough
+%EndFont
+
